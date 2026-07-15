@@ -49,7 +49,27 @@ xrpl-knowledge-base/
 | 05 | [Tokens & Accounts](./module-05-tokens-accounts/README.md) | Accounts, Reserves, Trust Lines, IOUs, NFTs, MPTs |
 | 06 | [Development on XRPL](./module-06-development/README.md) | SDKs, transaction types, Testnet, dev tools |
 | 07 | [Ecosystem & Future](./module-07-ecosystem/README.md) | Use cases, institutional adoption, comparisons, roadmap |
- 
+
+
+## SDK Technical Decisions
+
+This repository also documents the implementation decisions behind **xrpl_flutter_sdk** - the first native Flutter/Dart SDK for the XRP
+Ledger. Every implementation decision is grounded in the official sources documented in this repository - no third-party references,
+no unverified code.
+
+Current status: **Phase 1 in progress**
+
+| Feature | Status |
+|---------|--------|
+| Entropy - Secure random generation for XRPL seeds | ✅ Done |
+| Base58 Codec - XRPL alphabet, encode/decode, checksum | ✅ Done |
+| Family Seed Encoding | 🔄 Next |
+| secp256k1 Key Derivation | ⏳ Pending |
+| Ed25519 Key Derivation | ⏳ Pending |
+
+See [docs-sdk/](docs-sdk/) for the full documentation by phase.
+
+
 ## Official Resources
  
 ### Core
