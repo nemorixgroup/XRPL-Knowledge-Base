@@ -63,8 +63,8 @@ Current status: **Phase 1 in progress**
 |---------|--------|
 | Entropy - Secure random generation for XRPL seeds | ✅ Done |
 | Base58 Codec - XRPL alphabet, encode/decode, checksum | ✅ Done |
-| Family Seed Encoding | 🔄 Next |
-| secp256k1 Key Derivation | ⏳ Pending |
+| Family Seed Encoding | ✅ Done |
+| secp256k1 Key Derivation | 🔄 Next |
 | Ed25519 Key Derivation | ⏳ Pending |
 
 See [docs-sdk/](docs-sdk/) for the full documentation by phase.
