@@ -48,9 +48,9 @@ docs-sdk/
 | [Entropy](phase-1/entropy/README.md) | Secure random entropy generation for XRPL seeds (16 bytes) | ✅ Done |
 | [Base58 Codec](phase-1/base58-codec/README.md) | XRPL's own base58 alphabet, encode/decode, Base58Check-style checksum | ✅ Done |
 | [Family Seed Encoding](phase-1/family-seed-encoding/README.md) | Combining entropy + codec into an XRPL seed (`s...` prefix) | ✅ Done |
-| secp256k1 Key Derivation | Root key, intermediate key, curve point derivation | 🔄 Next |
-| Ed25519 Key Derivation | Curve derivation, `0xED` public key prefix | 🔄 Next |
-| XrplWallet Unified API | Public API unifying both algorithms | ⏳ Pending |
+| [secp256k1 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Root key, intermediate key, curve point derivation | ✅ Done |
+| [Ed25519 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Curve derivation, `0xED` public key prefix | ✅ Done |
+| XrplWallet Unified API | Public API unifying both algorithms | 🔄 Next |
 | Error Handling & Validation | Cryptographic exception design across the SDK | ⏳ Pending |
 | Test Suite & Official Vectors | Full Phase 1 suite validated against reference vectors | ⏳ Pending |
 
