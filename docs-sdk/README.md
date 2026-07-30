@@ -50,9 +50,9 @@ docs-sdk/
 | [Family Seed Encoding](phase-1/family-seed-encoding/README.md) | Combining entropy + codec into an XRPL seed (`s...` prefix) | ✅ Done |
 | [secp256k1 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Root key, intermediate key, curve point derivation | ✅ Done |
 | [Ed25519 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Curve derivation, `0xED` public key prefix | ✅ Done |
-| XrplWallet Unified API | Public API unifying both algorithms | 🔄 Next |
-| Error Handling & Validation | Cryptographic exception design across the SDK | ⏳ Pending |
-| Test Suite & Official Vectors | Full Phase 1 suite validated against reference vectors | ⏳ Pending |
+| [XrplWallet Unified API](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/wallet/README.md) | Public API unifying both algorithms | ✅ Done |
+| Error Handling & Validation | Cryptographic exception design across the SDK | 🔄 Next |
+| Test Suite & Official Vectors | Full Phase 1 suite validated against reference vectors | 🔄 Next |
 
 ## Phase 2 - Addresses
 
