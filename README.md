@@ -57,17 +57,20 @@ This repository also documents the implementation decisions behind **xrpl_flutte
 Ledger. Every implementation decision is grounded in the official sources documented in this repository - no third-party references,
 no unverified code.
 
-Current status: **Phase 1 in progress**
+Current status: **Phase 2 in progress**
 
-| Feature | Status |
-|---------|--------|
-| Entropy - Secure random generation for XRPL seeds | ✅ Done |
-| Base58 Codec - XRPL alphabet, encode/decode, checksum | ✅ Done |
-| Family Seed Encoding | ✅ Done |
-| secp256k1 Key Derivation | 🔄 Next |
-| Ed25519 Key Derivation | ⏳ Pending |
+| Phase | Status |
+|-------|--------|
+| Phase 1 - Cryptographic Fundamentals | ✅ Done | 
+| Phase 2 - Addresses | 🔄 In progress |
+| Phase 3 - Connection Layer | ⏳ Pending |
+| Phase 4 - Core Transactions | ⏳ Pending |
+| Phase 5 - DEX & Cross-Currency | ⏳ Pending |
+| Phase 6 - Conditionals & Channels | ⏳ Pending |
+| Phase 7 - Tokenization | ⏳ Pending |
+| Phase 8 - Account Security & Compliance | ⏳ Pending |
 
-See [docs-sdk/](docs-sdk/) for the full documentation by phase.
+See [docs-sdk/](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/README.md) for the full documentation by phase.
 
 
 ## Official Resources
