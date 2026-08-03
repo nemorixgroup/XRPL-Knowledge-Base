@@ -51,14 +51,14 @@ docs-sdk/
 | [secp256k1 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Root key, intermediate key, curve point derivation | ✅ Done |
 | [Ed25519 Key Derivation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/key-derivation/README.md) | Curve derivation, `0xED` public key prefix | ✅ Done |
 | [XrplWallet Unified API](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/wallet/README.md) | Public API unifying both algorithms | ✅ Done |
-| Error Handling & Validation | Cryptographic exception design across the SDK | 🔄 Next |
-| Test Suite & Official Vectors | Full Phase 1 suite validated against reference vectors | 🔄 Next |
+| [Error Handling & Validation](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/error-handling/README.md) | Cryptographic exception design across the SDK | ✅ Done |
+| [Test Suite & Official Vectors](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-1/test-suite-audit/README.md) | Full Phase 1 suite validated against reference vectors | ✅ Done |
 
 ## Phase 2 - Addresses
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| Classic Address | SHA-256 + RIPEMD160 derivation, `r...` format | ⏳ Pending |
+| Classic Address | SHA-256 + RIPEMD160 derivation, `r...` format | 🔄 Next |
 | X-Address | Network + destination tag + address encoding | ⏳ Pending |
 
 ## Phase 3 - Connection Layer
