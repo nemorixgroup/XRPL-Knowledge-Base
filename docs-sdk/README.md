@@ -58,8 +58,9 @@ docs-sdk/
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| Classic Address | SHA-256 + RIPEMD160 derivation, `r...` format | 🔄 Next |
-| X-Address | Network + destination tag + address encoding | ⏳ Pending |
+| Classic Address | SHA-256 + RIPEMD160 derivation, `r...` format | ✅ Done |
+| X-Address | Network + destination tag + address encoding | 🔄 Next |
+| XrplWallet Integration | Add address to XrplWallet | ⏳ Pending |
 
 ## Phase 3 - Connection Layer
 
