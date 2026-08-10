@@ -59,8 +59,8 @@ docs-sdk/
 | Feature | Description | Status |
 |---------|--------------|--------|
 | [Classic Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/classic-address/README.md) | SHA-256 + RIPEMD160 derivation, `r...` format | ✅ Done |
-| X-Address | Network + destination tag + address encoding | 🔄 Next |
-| XrplWallet Integration | Add address to XrplWallet | ⏳ Pending |
+| [X-Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/x-address/README.md) | Network prefix + destination tag (optional) + address encoding (account id) | ✅ Done |
+| XrplWallet Integration | Add address to XrplWallet | 🔄 Next |
 
 ## Phase 3 - Connection Layer
 
