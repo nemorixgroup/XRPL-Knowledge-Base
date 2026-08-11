@@ -60,7 +60,8 @@ docs-sdk/
 |---------|--------------|--------|
 | [Classic Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/classic-address/README.md) | SHA-256 + RIPEMD160 derivation, `r...` format | ✅ Done |
 | [X-Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/x-address/README.md) | Network prefix + destination tag (optional) + address encoding (account id) | ✅ Done |
-| XrplWallet Integration | Add address to XrplWallet | 🔄 Next |
+| [XrplWallet Integration](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/wallet-address-integration/README.md) | Add address to XrplWallet | ✅ Done |
+| Test Suite & Official Vectors | Full Phase 2 suite validated against reference vectors | 🔄 Next |
 
 ## Phase 3 - Connection Layer
 
