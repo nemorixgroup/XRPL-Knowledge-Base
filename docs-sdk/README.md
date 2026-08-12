@@ -61,13 +61,13 @@ docs-sdk/
 | [Classic Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/classic-address/README.md) | SHA-256 + RIPEMD160 derivation, `r...` format | ✅ Done |
 | [X-Address](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/x-address/README.md) | Network prefix + destination tag (optional) + address encoding (account id) | ✅ Done |
 | [XrplWallet Integration](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/wallet-address-integration/README.md) | Add address to XrplWallet | ✅ Done |
-| Test Suite & Official Vectors | Full Phase 2 suite validated against reference vectors | 🔄 Next |
+| [Test Suite & Official Vectors](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-2/closing-audit/README.md) | Full Phase 2 suite validated against reference vectors | ✅ Done |
 
 ## Phase 3 - Connection Layer
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| WebSocket/JSON-RPC Client | Transport design, request/response model | ⏳ Pending |
+| WebSocket/JSON-RPC Client | Transport design, request/response model | 🔄 Next |
 | Network Environments | Mainnet/Testnet/Devnet configuration | ⏳ Pending |
 | Account & Ledger Queries | `account_info`, `server_info`, subscribe streams | ⏳ Pending |
 
