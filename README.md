@@ -62,8 +62,8 @@ Current status: **Phase 2 in progress**
 | Phase | Status |
 |-------|--------|
 | Phase 1 - Cryptographic Fundamentals | ✅ Done | 
-| Phase 2 - Addresses | 🔄 In progress |
-| Phase 3 - Connection Layer | ⏳ Pending |
+| Phase 2 - Addresses | ✅ Done |
+| Phase 3 - Connection Layer | 🔄 In progress |
 | Phase 4 - Core Transactions | ⏳ Pending |
 | Phase 5 - DEX & Cross-Currency | ⏳ Pending |
 | Phase 6 - Conditionals & Channels | ⏳ Pending |
