@@ -67,9 +67,10 @@ docs-sdk/
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| WebSocket/JSON-RPC Client | Transport design, request/response model | 🔄 Next |
-| Network Environments | Mainnet/Testnet/Devnet configuration | ⏳ Pending |
-| Account & Ledger Queries | `account_info`, `server_info`, subscribe streams | ⏳ Pending |
+| [Connection Lifecycle](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/connection-lifecycle/README.md) | XrplEndpoint, XrplConnection, XrplConnectionException | ✅ Done |
+| JSON-RPC Requests & Account/Ledger Queries | Sending requests, account_info, server_info | 🔄 Next |
+| Subscribe Streams | Real-time ledger/transaction events, reconnection | ⏳ Pending |
+| Phase 3 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
 
 ## Phase 4 - Core Transactions
 
