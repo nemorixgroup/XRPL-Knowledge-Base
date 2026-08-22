@@ -69,8 +69,8 @@ docs-sdk/
 |---------|--------------|--------|
 | [Connection Lifecycle](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/connection-lifecycle/README.md) | XrplEndpoint, XrplConnection, XrplConnectionException | ✅ Done |
 | [JSON-RPC Requests & Account/Ledger Queries](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/requests-and-queries/README.md) | Generic request(), account_info, server_info | ✅ Done |
-| Subscribe Streams | Real-time ledger/transaction events, reconnection | 🔄 Next |
-| Phase 3 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+| [Subscribe Streams](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/subscription-streams/README.md) | Real-time ledger/transaction events, reconnection | ✅ Done |
+| Phase 3 Closing Audit | Error handling review, test consolidation | 🔄 Next |
 
 ## Phase 4 - Core Transactions
 
