@@ -70,15 +70,17 @@ docs-sdk/
 | [Connection Lifecycle](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/connection-lifecycle/README.md) | XrplEndpoint, XrplConnection, XrplConnectionException | ✅ Done |
 | [JSON-RPC Requests & Account/Ledger Queries](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/requests-and-queries/README.md) | Generic request(), account_info, server_info | ✅ Done |
 | [Subscribe Streams](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/subscription-streams/README.md) | Real-time ledger/transaction events, reconnection | ✅ Done |
-| Phase 3 Closing Audit | Error handling review, test consolidation | 🔄 Next |
+| [Phase 3 Closing Audit](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-3/closing-audit/README.md) | Error handling review, test consolidation | ✅ Done |
 
 ## Phase 4 - Core Transactions
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| Transaction Model | Payment, TrustSet structure and autofill | ⏳ Pending |
+| Transaction Model | Payment, TrustSet structure and autofill | 🔄 Next |
 | Signing | Single-signing flow, `SigningPubKey`/`TxnSignature` | ⏳ Pending |
 | Submission | `submit`, `submitAndWait`, validation lifecycle | ⏳ Pending |
+| Phase 4 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+
 
 ## Phase 5 - DEX & Cross-Currency
 
@@ -87,6 +89,8 @@ docs-sdk/
 | OfferCreate/OfferCancel | Order book mechanics | ⏳ Pending |
 | AMM | AMMCreate/Deposit/Withdraw/Vote/Bid | ⏳ Pending |
 | Path Finding | Cross-currency payment routing | ⏳ Pending |
+| Phase 5 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+
 
 ## Phase 6 - Conditionals & Channels
 
@@ -95,6 +99,8 @@ docs-sdk/
 | Escrow | Create/Finish/Cancel, crypto-conditions | ⏳ Pending |
 | Payment Channels | Create/Fund/Claim | ⏳ Pending |
 | Checks | Create/Cash/Cancel | ⏳ Pending |
+| Phase 6 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+
 
 ## Phase 7 - Tokenization
 
@@ -103,6 +109,8 @@ docs-sdk/
 | NFTs | Mint/Burn/CreateOffer/AcceptOffer/CancelOffer | ⏳ Pending |
 | Multi-Purpose Tokens (MPT) | Issuance and transfer model | ⏳ Pending |
 | Clawback | Issuer recovery mechanics | ⏳ Pending |
+| Phase 7 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+
 
 ## Phase 8 - Account Security & Compliance
 
@@ -112,6 +120,8 @@ docs-sdk/
 | Regular Key | Key rotation without changing the address | ⏳ Pending |
 | Tickets | TicketCreate, out-of-order sequencing | ⏳ Pending |
 | DepositPreauth / Credentials | Compliance-oriented access control | ⏳ Pending |
+| Phase 8 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+
 
 ## Related
 
