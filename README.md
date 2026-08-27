@@ -57,14 +57,14 @@ This repository also documents the implementation decisions behind **xrpl_flutte
 Ledger. Every implementation decision is grounded in the official sources documented in this repository - no third-party references,
 no unverified code.
 
-Current status: **Phase 2 in progress**
+Current status: **Phase 4 (Core Transactions) in progress**
 
 | Phase | Status |
 |-------|--------|
 | Phase 1 - Cryptographic Fundamentals | ✅ Done | 
 | Phase 2 - Addresses | ✅ Done |
-| Phase 3 - Connection Layer | 🔄 In progress |
-| Phase 4 - Core Transactions | ⏳ Pending |
+| Phase 3 - Connection Layer | ✅ Done |
+| Phase 4 - Core Transactions | 🔄 In progress |
 | Phase 5 - DEX & Cross-Currency | ⏳ Pending |
 | Phase 6 - Conditionals & Channels | ⏳ Pending |
 | Phase 7 - Tokenization | ⏳ Pending |
@@ -181,5 +181,5 @@ If this project is useful to you or your team, consider supporting its developme
 
 ---
  
-*Last updated: June 2026*
+*Last updated: August 2026*
 *Maintained by: [Miguel Fagundez](https://github.com/miguelfagundez) & [Nemorix Group, LLC](https://github.com/nemorixgroup)*
