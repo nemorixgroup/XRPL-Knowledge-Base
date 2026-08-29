@@ -76,8 +76,8 @@ docs-sdk/
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| Transaction Model | Payment, TrustSet structure and autofill | 🔄 Next |
-| Signing | Single-signing flow, `SigningPubKey`/`TxnSignature` | ⏳ Pending |
+| [Transaction Model](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/transaction-model/README.md) | Payment, TrustSet structure and autofill | ✅ Done |
+| Signing | Single-signing flow, `SigningPubKey`/`TxnSignature` | 🔄 Next |
 | Submission | `submit`, `submitAndWait`, validation lifecycle | ⏳ Pending |
 | Phase 4 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
 
