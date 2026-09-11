@@ -78,8 +78,8 @@ docs-sdk/
 |---------|--------------|--------|
 | [Transaction Model](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/transaction-model/README.md) | Payment, TrustSet structure and autofill | ✅ Done |
 | [Signing](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/signing/README.md) | Single-signing flow, `SigningPubKey`/`TxnSignature` | ✅ Done |
-| Submission | `submit`, `submitAndWait`, validation lifecycle | 🔄 Next |
-| Phase 4 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
+| [Submission](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/submission/README.md) | `submit`, `submitAndWait`, `sendPayment`, validation lifecycle | ✅ Done |
+| Phase 4 Closing Audit | Error handling review, test consolidation | 🔄 Next |
 
 
 ## Phase 5 - DEX & Cross-Currency
