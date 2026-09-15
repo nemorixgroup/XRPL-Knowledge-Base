@@ -64,8 +64,8 @@ Current status: **Phase 4 (Core Transactions) in progress**
 | Phase 1 - Cryptographic Fundamentals | ✅ Done | 
 | Phase 2 - Addresses | ✅ Done |
 | Phase 3 - Connection Layer | ✅ Done |
-| Phase 4 - Core Transactions | 🔄 In progress |
-| Phase 5 - DEX & Cross-Currency | ⏳ Pending |
+| Phase 4 - Core Transactions | ✅ Done |
+| Phase 5 - DEX & Cross-Currency | 🔄 In progress |
 | Phase 6 - Conditionals & Channels | ⏳ Pending |
 | Phase 7 - Tokenization | ⏳ Pending |
 | Phase 8 - Account Security & Compliance | ⏳ Pending |
@@ -181,5 +181,5 @@ If this project is useful to you or your team, consider supporting its developme
 
 ---
  
-*Last updated: August 2026*
+*Last updated*: **September 2026**  
 *Maintained by: [Miguel Fagundez](https://github.com/miguelfagundez) & [Nemorix Group, LLC](https://github.com/nemorixgroup)*
