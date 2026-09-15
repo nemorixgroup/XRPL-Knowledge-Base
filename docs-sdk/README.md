@@ -79,14 +79,14 @@ docs-sdk/
 | [Transaction Model](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/transaction-model/README.md) | Payment, TrustSet structure and autofill | ✅ Done |
 | [Signing](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/signing/README.md) | Single-signing flow, `SigningPubKey`/`TxnSignature` | ✅ Done |
 | [Submission](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/submission/README.md) | `submit`, `submitAndWait`, `sendPayment`, validation lifecycle | ✅ Done |
-| Phase 4 Closing Audit | Error handling review, test consolidation | 🔄 Next |
+| [Phase 4 Closing Audit](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-4/closing-audit/README.md) | Error handling review, test consolidation | ✅ Done |
 
 
 ## Phase 5 - DEX & Cross-Currency
 
 | Feature | Description | Status |
 |---------|--------------|--------|
-| OfferCreate/OfferCancel | Order book mechanics | ⏳ Pending |
+| OfferCreate/OfferCancel | Order book mechanics | 🔄 Next |
 | AMM | AMMCreate/Deposit/Withdraw/Vote/Bid | ⏳ Pending |
 | Path Finding | Cross-currency payment routing | ⏳ Pending |
 | Phase 5 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
@@ -126,4 +126,4 @@ docs-sdk/
 ## Related
 
 - [xrpl_flutter_sdk](https://github.com/nemorixgroup/xrpl-flutter-sdk) - the SDK itself
-- [XRPL Knowledge Base](../README.md) - official source documentation
+- [XRPL Knowledge Base](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/README.md) - official source documentation
