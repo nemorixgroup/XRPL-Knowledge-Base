@@ -57,8 +57,6 @@ This repository also documents the implementation decisions behind **xrpl_flutte
 Ledger. Every implementation decision is grounded in the official sources documented in this repository - no third-party references,
 no unverified code.
 
-Current status: **Phase 4 (Core Transactions) in progress**
-
 | Phase | Status |
 |-------|--------|
 | Phase 1 - Cryptographic Fundamentals | ✅ Done | 
