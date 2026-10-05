@@ -87,8 +87,8 @@ docs-sdk/
 | Feature | Description | Status |
 |---------|--------------|--------|
 | [OfferCreate/OfferCancel](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/offer-create-offer-cancel/README.md) | Order book mechanics | ✅ Done |
+| [Path Finding](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/path-finding/README.md) | Cross-currency payment routing | ✅ Done |
 | AMM | AMMCreate/Deposit/Withdraw/Vote/Bid | 🔄 Next |
-| Path Finding | Cross-currency payment routing | ⏳ Pending |
 | Phase 5 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
 
 
