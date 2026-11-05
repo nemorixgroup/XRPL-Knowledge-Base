@@ -90,7 +90,8 @@ docs-sdk/
 | [Path Finding](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/path-finding/README.md) | Cross-currency payment routing | ✅ Done |
 | [AMM Create](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/amm-create/README.md) | AMMCreate & amm_info | ✅ Done |
 | [AMM Deposit](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/amm-deposit/README.md) | AMMDeposit & XrplAmmDeposit | ✅ Done |
-| AMM | Withdraw/Vote/Bid | 🔄 Next |
+| [AMM Withdraw](https://github.com/nemorixgroup/XRPL-Knowledge-Base/blob/main/docs-sdk/phase-5/amm-withdraw/README.md) | AMMWithdraw & XrplAmmWithdraw | ✅ Done |
+| AMM | Vote/Bid | 🔄 Next |
 | Phase 5 Closing Audit | Error handling review, test consolidation | ⏳ Pending |
 
 ## Phase 6 - Conditionals & Channels
